@@ -1,0 +1,26 @@
+.bg-img1 {
+    /* background-color: #000; */
+    background-size: cover;
+    background-image: url("https://petapixel.com/assets/uploads/2022/08/fdfs19.jpg");
+}
+
+.bg-img2 {
+    /* background-color: #000; */
+    background-size: cover;
+    background-image: url("./img/road-1072821_1280.jpg");
+}
+
+.bg-img1 {
+    /* background-color: #000; */
+    background-size: cover;
+    background-image: url("./img/beach-418742_1280.jpg");
+}
+
+footer ul {
+    list-style-type:circle ;
+}
+
+footer li {
+    text-decoration: underline;
+    color: blue;
+}
